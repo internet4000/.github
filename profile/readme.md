@@ -4,4 +4,6 @@ organisation](https://github.com/radio4000) for the future version.
 In this organisation remains for now:
 
 - radio4000 ember/firebase content (until migration complete, then archived and shutdown to @r4)
-- other i4k projects
+- other i4k projects hosted on github
+
+Otherwise repositories are generally on [gitlab](https://gitlab.com/internet4000)
